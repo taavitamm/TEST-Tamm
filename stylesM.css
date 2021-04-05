@@ -1,0 +1,53 @@
+﻿body 
+{ 
+font-family: arial, helvetica, verdana, sans serif; 
+font-size:18px;  background-color:lightgreen;
+ } 
+
+
+a:link 
+{ 
+color: blue; 
+background-color: none;
+text-decoration:underline;
+Font-family: arial, helvetica, verdana, sans serif;
+font-size: 16px;
+} 
+
+a:hover {
+	color: #Ff4500;
+
+}
+
+a:active {
+	background-color: yellow;
+}
+
+a:visited {
+	color: #7c7a79;
+}
+
+
+p 
+{ 
+text-indent: 25%; 
+} 
+
+p.margins 
+{ 
+margin-left: 20%; 
+margin-right: 20%;
+Font-family: arial, helvetica, verdana, sans serif;
+Font-size: 16px
+} 
+
+h1
+{
+font-weight: normal;
+font-size: 28px; 
+font-family: arial; 
+text-align: center;
+}
+
+
+
